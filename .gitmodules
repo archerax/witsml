@@ -5,4 +5,4 @@
 [submodule "ext/devkit-c"]
 	path = ext/devkit-c
 	url = ../devkit-c
-	branch = refs/heads/master
+	branch = refs/heads/main
